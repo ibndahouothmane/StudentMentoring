@@ -7,7 +7,9 @@
 Languages: HTML / CSS / PHP / JAVASCRIPT
 Database: MYSQL
 Framework: Bootstrap, Jquery
-----------------------------------------------French---------------------------------------------------------------
+
+-----------------------------------------------French------------------------------------------------------------
+
 +J'ai développe un portail web de mentoring étudiants (Gestion de rendez vous)
 +Une fois inscrit, l’étudiant choisit un créneau horaire pour contacter son mentor via un formulaire. Tout doit être enregistré et gardé sur l’écran du mentor et de l’étudiant.
 +Une fois authentifié, le mentor peut voir la liste des demandes de contact envoyé par les étudiants sur un agenda. Lorsqu’il clique sur l’agenda, il visualise le détail de l’étudiant
