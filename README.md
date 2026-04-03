@@ -1,5 +1,4 @@
 # StudentMentoring
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ibndahouothmane/StudentMentoring)
 
 StudentMentoring is a web portal designed to facilitate appointment management between students and mentors. The platform provides separate interfaces for students and mentors to register, log in, and manage mentoring sessions.
 
